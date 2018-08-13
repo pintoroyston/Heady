@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="splash_screen_init">Setting up your shopping experience</string>
+    <string name="splash_screen_error">Need Internet Connection to proceed</string>
+    <string name="activity_main_title">Shop by Category</string>
+    <string name="activity_main_subtitle">You may like</string>
+</resources>
